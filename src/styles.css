@@ -18,6 +18,8 @@ header{
 
 main {
   padding: 36px;
+  display: flex;
+  flex-direction: column;
 }
 
 .logo{
@@ -67,4 +69,11 @@ main {
     color: white;
     border: none;
     cursor: pointer;
+}
+
+
+.meme--image{
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
 }
