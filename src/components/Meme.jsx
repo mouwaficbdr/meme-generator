@@ -25,7 +25,7 @@ export default function Meme() {
   });
 
   // eslint-disable-next-line no-unused-vars
-  const [allMemes, setAllMemes] = useState({})
+  const [allMemes, setAllMemes] = useState()
   
   useEffect(() => {
 
