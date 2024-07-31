@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react"
 import logoIcon from "../assets/troll-face.png"
 
